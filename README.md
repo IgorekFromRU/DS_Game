@@ -1,8 +1,8 @@
 # My data science projects
 From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
 
-## Проекты
+## РџСЂРѕРµРєС‚С‹
 
-* [Проект 0. Игра: Угадай число](https://github.com/IgorekFromRU/DS_Game/tree/main/project_0)
-* [Проект 1. _______](https://github.com/IgorekFromRU/DS_Game/)
-* [Проект 2. _______](https://github.com/IgorekFromRU/DS_Game/)
+* [РџСЂРѕРµРєС‚ 0. РРіСЂР°: РЈРіР°РґР°Р№ С‡РёСЃР»Рѕ](https://github.com/IgorekFromRU/DS_Game/tree/main/project_0)
+* [РџСЂРѕРµРєС‚ 1. _______](https://github.com/IgorekFromRU/DS_Game/)
+* [РџСЂРѕРµРєС‚ 2. _______](https://github.com/IgorekFromRU/DS_Game/)
