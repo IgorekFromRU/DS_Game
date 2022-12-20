@@ -11,5 +11,3 @@ while True:
     else:
         print(f"You have found {predicit_number} for the {count} trying")
         break
-
-#Hello
