@@ -26,6 +26,7 @@ def random_predict(number:int=1) -> int:
         
         # предполагаемое число в сужаемом диапазоне
         predict_number = np.random.randint(low_range, high_range)
+    
     return(count)
 
 
