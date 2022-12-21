@@ -1,6 +1,6 @@
 import numpy as np
 
-def random_predict(number:int=1) -> int:
+def random_predict_min(number:int=1) -> int:
     """Угадываем число за минимальный проход, используя randinit
 
     Args:
@@ -54,4 +54,4 @@ def score_game(random_predict) -> int:
 
 # RUN
 if __name__ == '__main__':
-    score_game(random_predict)
+    score_game(random_predict_min)
